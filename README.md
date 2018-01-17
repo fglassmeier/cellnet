@@ -4,7 +4,7 @@ cellnet is a python 2 package for transforming natural cellular networks.
 Examples for the natural cellular networks addressed here are foams or biological cells, but not mobile phone infrastructure.
 cellnet was developed for cellular networks of clouds and its application to this case it documented in the following publication:
 
-F. Glassmeier & G. Feingold (2017): Network approach to patterns in stratocumulus clouds. (in press) 
+F. Glassmeier & G. Feingold (2017): Network approach to patterns in stratocumulus clouds, PNAS, 114 (40), 10578–10583, doi:[10.1073/pnas.1706495114](http://www.pnas.org/content/114/40/10578).
 
 ## Examples
 
